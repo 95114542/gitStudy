@@ -4,5 +4,6 @@
 public class testClassB {
     public static void main(String[] args) {
         System.out.println("testb");
+        System.out.println("nihao");
     }
 }
