@@ -6,5 +6,6 @@ public class testClassB {
         System.out.println("testb");
         System.out.println("");
         System.out.println("testb");
+        System.out.println();
     }
 }
